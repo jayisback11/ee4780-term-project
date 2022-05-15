@@ -9,7 +9,7 @@
 # Explaining the Files
 
 - detect.py
-  - detect.py is responsible for detecting the figures
+  - detect.py is responsible for detecting the skeleton figures
 - yolov4-tiny-custom_last.weights
   - the needed file after training the model. Note: This is needed to run the program
 - yolov4-tiny-custom.cfg
